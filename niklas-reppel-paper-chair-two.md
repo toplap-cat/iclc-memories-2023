@@ -45,12 +45,13 @@ They were ported from previous ICLCs, and needed some maintenance.
 
 Ultimately, we ported all of them to Latex (**pandoc is your friend here!**) and did some 
 Latex doctoring for the final layout. Especially for the papers, the markdown and doc versions
-didn't match as nicely as we hoped, so we saved them as docx, pandoc'd them to latex, and 
-did some fine-tuning there. 
+didn't match as nicely as we hoped, so we save the doc versions as docx, pandoc'd them to latex, and 
+did some fine-tuning there. It's not as much work as it sounds (we managed to have everything published
+by the start of the conference) but a solid knowledge of latex sure helps.
 
 *You might save yourself some of the work by aligning all templates in advance.*
 
-Keep in mind that the live coding community has a *strong focus on FLOSS software*, so if you
+Keep in mind that the live coding community has a *trong focus on FLOSS software*, so if you
 only provide one type of template, make sure everyone has the means to edit them. Not everyone
 in this community uses/has access to Word or other commercial products. 
 
