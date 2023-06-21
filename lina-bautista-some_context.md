@@ -3,9 +3,6 @@
 
 In our case, the idea of organising the ICLC started within the on-the-fly project, as a continuation of the idea of fostering Live Coding. The project, funded by Creative Europe, ended in October 2022, and we thought that a good continuation of that spirit could be organising this ICLC. Since organising something like this involves a lot of work (and we knew this because some of us worked on the Madrid ICLC in 2019), and this conference is a self-sustaining project we decided to share the work; we didn't have the figure of a single "chair", which has made some things easier, but others challenging.
 
-
-**Submissions**
-
 We received 191 submissions for peer review, including papers, community reports, workshops, performances, and video documents. Regarding diversity, while proposals for performances and workshops were more balanced regarding gender and location, those of papers were rather biased towards men living in countries of the global north. This should raise the attention of a concern about the diversity.
 
 From a total of 33 papers received, we were able to accept 16, which results in an acceptance rate of 48%. We struggled deciding whether to reduce the time for each presentation in order to accept more, but we were inclined to give each participant their time. However, it is clear that for further editions we have to find more creative ways to present so that more papers can be included. We also have to think if they should all be presented in the same way, there could be demos for example. This, without falling into the traditional poster sessions, which when mishandled give the sensation of being a kind of "second-class accepted proposals". We need to address this as the live coding community aims to have a conference with as high acceptance rate as possible, providing an inclusive space for discussion.
