@@ -3,3 +3,4 @@
 A collection or memories and conclusions from the organizers of ICLC2023.
 
 * [Niklas Reppel (paper chair)](niklas-reppel-paper-chair-two.md)
+* [Timo Hoogland (performance chair and local production)](timo-hoogland-performance-chair.md)
