@@ -58,6 +58,11 @@ in this community uses/has access to Word or other commercial products.
 The 2023 templates are available here, feel free to add your own for subsequent ICLCs: 
 https://github.com/iclc/iclc-templates
 
+Alex McLean also wrote down some helpful thoughts when publishing the proceedings of the first ICLC:
+
+* https://slab.org/2014/12/02/conference-template-utopia/
+* https://slab.org/2015/07/06/how-to-publish-open-access-conference-proceedings/
+
 ## Reviewer Management
 
 ICLC is a fairly interdisciplinary conference, so you'll need:
