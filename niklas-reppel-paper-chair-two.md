@@ -99,12 +99,12 @@ While there might be concerns regarding the fairness of the review process, ther
 Ultimately it's hard to conceal someone's identity in this environment. Performance submissions typically include
 (or even must include) an example or reference work, which reveals the author's identity, anyway.
 
-Papers often aren't "self-contained", either, as they often refer explicitly to software repositories, recorded performances,
+Papers aren't necessarily "self-contained", either, as they often refer explicitly to software repositories, recorded performances,
 or other references or projects that would reveal the author's identity.
 
 On the other hand, it'd be hard for the authors to write a complete paper without these references (how do you write a
 a paper about your performance practice without referencing some of your performances?), so they might
-be in the conundrum if asked to fully anonymize their papers and render them incomplete. It's not like in theoretical math, where you can present
+be in a conundrum if asked to fully anonymize their papers and render them incomplete. It's not like in theoretical math, where you can present
 a self-contained proof in a single paper.
 
 It'd be also hard to give a fair review of these submissions without having all the references.
@@ -114,7 +114,6 @@ situation, given how small the community is and how acquainted people are with e
 they are reviewing.
 
 Ulitmately, that's up for the next committee to decide.
-
 
 ## Selection of Results 
 
