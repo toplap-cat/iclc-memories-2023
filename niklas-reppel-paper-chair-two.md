@@ -74,9 +74,9 @@ ICLC is a fairly interdisciplinary conference, so you'll need:
 * and in some cases, reviewers that can assess all of these.
 
 It's not always easy to find these people, especially people who are not an integral part
-of the community.
+of the community (or better, people who aren't submitting anything to the conference themselves).
 
-The community is small and you'll have people who both submit their own entries and
+The community is small and you'll likely have people who both submit their own entries and
 review other entries. The situation isn't ideal, but hasn't lead to major problems 
 so far.
 
@@ -86,6 +86,30 @@ For a curated list of reviewers, contact the steering committee.
 
 To help reviewers write meaningful reviews, it is helpful to think of some questions and categories to guide them.
 Those should neither be too restrictive nor too open, and integrate well with the submission system.
+
+## Review Process - Single-Blind or Double-Blind?
+
+So far, the review process for most ICLCs (the ones I remember) have been *single-blind*, with the author's identity
+known to the reviewer but not vice versa.
+
+While there might be concerns regarding the fairness of the review process, there is some reasoning behind it.
+
+Ultimately it's hard to conceal someone's identity in this environment. Performance submissions typically include
+(or even must include) an example or reference work, which reveals the author's identity, anyway.
+
+Papers often aren't "self-contained", either, as they often refer explicitly to software repositories, recorded performances,
+or other references or projects that would reveal the authors identity.
+
+On the other hand, it'd be hard for the authors to write a complete paper without these references (how do you write a
+a paper about your performance practice without referencing some of your performances ?), so they might
+be in the conundrum if asked to fully anonymize their papers and render them incomplete. It's not like in theoretical math, where you can present
+a self-contained proof in a single paper.
+
+It'd be also hard to give a fair review of these submissions without having all the references.
+
+There might be other ways around it (anonymous abstracts only as foundation for the review, instead of full articles), but that's up
+for the next committee to decide.
+
 
 ## Selection of Results 
 
