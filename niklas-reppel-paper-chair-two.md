@@ -53,8 +53,10 @@ by the start of the conference) but a solid knowledge of latex sure helps.
 
 Keep in mind that the live coding community has a *strong focus on FLOSS software*, so if you
 only provide one type of template, make sure everyone has the means to edit them. Not everyone
-in this community uses/has access to Word or other commercial products. On the other hand, not everyone in the community is a Latex or pandoc 
-wizard either, so in any case make sure to make your documentation regarding the templates as clear and transparent as possible.
+in this community uses/has access to Word or other commercial products. 
+
+On the other hand, not everyone in the community is a Latex or pandoc 
+wizard either, so in any case make sure your **documentation regarding the templates is as clear and transparent as possible**.
 
 The 2023 templates are available here, feel free to add your own for subsequent ICLCs: 
 https://github.com/iclc/iclc-templates
@@ -98,17 +100,20 @@ Ultimately it's hard to conceal someone's identity in this environment. Performa
 (or even must include) an example or reference work, which reveals the author's identity, anyway.
 
 Papers often aren't "self-contained", either, as they often refer explicitly to software repositories, recorded performances,
-or other references or projects that would reveal the authors identity.
+or other references or projects that would reveal the author's identity.
 
 On the other hand, it'd be hard for the authors to write a complete paper without these references (how do you write a
-a paper about your performance practice without referencing some of your performances ?), so they might
+a paper about your performance practice without referencing some of your performances?), so they might
 be in the conundrum if asked to fully anonymize their papers and render them incomplete. It's not like in theoretical math, where you can present
 a self-contained proof in a single paper.
 
 It'd be also hard to give a fair review of these submissions without having all the references.
 
-There might be other ways around it (anonymous abstracts only as foundation for the review, instead of full articles), but that's up
-for the next committee to decide.
+There might be other ways around it. One way might be anonymous abstracts only as foundation for the review, instead of full articles. But even in that
+situation, given how small the community is and how acquainted people are with each other's work, there will be many reviewers who will know whose submission
+they are reviewing.
+
+Ulitmately, that's up for the next committee to decide.
 
 
 ## Selection of Results 
