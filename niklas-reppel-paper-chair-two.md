@@ -53,7 +53,8 @@ by the start of the conference) but a solid knowledge of latex sure helps.
 
 Keep in mind that the live coding community has a *strong focus on FLOSS software*, so if you
 only provide one type of template, make sure everyone has the means to edit them. Not everyone
-in this community uses/has access to Word or other commercial products. 
+in this community uses/has access to Word or other commercial products. On the other hand, not everyone in the community is a Latex or pandoc 
+wizard either, so in any case make sure to make your documentation regarding the templates as clear and transparent as possible.
 
 The 2023 templates are available here, feel free to add your own for subsequent ICLCs: 
 https://github.com/iclc/iclc-templates
